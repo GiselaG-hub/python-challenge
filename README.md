@@ -37,8 +37,9 @@ Greatest Decrease in Profits: Sep-2013 ($-2196167)
 
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
-In this challenge, you are tasked with helping a small, rural town modernize its vote counting process.
+PyPoll
 
+In this challenge, you are tasked with helping a small, rural town modernize its vote counting process.
 
 You will be give a set of poll data called election_data.csv. The dataset is composed of three columns: Voter ID, County, and Candidate. Your task is to create a Python script that analyzes the votes and calculates each of the following:
 
